@@ -23,7 +23,7 @@
   "experiments": [
     {
       "name": "Batik Scarf Showroom",
-      "locationIcon": "batik-logo.png",
+      "locationIcon": "batik-logo.svg",
       "description": "Creative shop of handmade scarfs",
       "builtWith": ["html5", "css3", "javascript", "jquery", "bootstrap"],
       "link": "https://batik-scarf.shop/"
