@@ -225,31 +225,31 @@
   "recommendations": [
     {
       "name": "Svetlana",
-      "jobTitle": "Delivery Manager",
+      "jobTitle": "Marketer",
       "photo": "svetlana.jpg",
       "linkedin": "https://freelance.ru/reviews/domagic/",
       "text": "What I got in partnership with Yaroslav (performer, for me, my partner in the project!): \n\n 1. Replaced the standard validation of 17 browser forms with a custom one. This validation contains many rules for filling out an e-mail, telephone (when filling out a form incorrectly, it does not allow it to be sent), this protects against incorrect sending and spam. 2. Modal windows have been supplemented with a form that sends a letter to the administrator with customer data and forms a table for the marketer on the server. I'm that marketer and the lead table is a gift! Form validation - without it, applications with incorrect contact information are often received. 3. Detailed animation - animated all headers, blocks, some sections. 4. Adapted even for Explorern \n\n This is the most responsible partner with whom I have had to work freelance and not only. Always in touch, very delicate, loyal, accurate and always positive. Offers and helps to improve the project, delves into all the subtleties and details.\n\n A stunning person, a great rare ..."
     },
     {
-      "name": "Nikolay Mirkula",
-      "jobTitle": "Software Engineer",
-      "photo": "nick.jpg",
-      "linkedin": "https://www.linkedin.com/in/nikolay-mirkula-bb0b9ab6/",
-      "text": "Marat is an amazing professional, who brings all of the skills and expertise in programming and web development. His productivity and ambition sets a great example for the rest of the team. It was indeed a wonderful thing to work with him as the Lead Frontend Engineer at Moqod company.\n\n As a colleague, I recommend him to other institutions who may want to hire his most treasured skills"
+      "name": "Konstantine Koolkat",
+      "jobTitle": "Photographer",
+      "photo": "konstantin.png",
+      "linkedin": "https://freelance.ru/reviews/domagic/",
+      "text": "Offers modern solutions with interesting functionality. As a result, the site stands out from the pile of similar visual legacy solutions. "
     },
     {
-      "name": "Michael Sebastiyan",
-      "jobTitle": "Senior Software Engineer",
-      "photo": "mike.jpg",
-      "linkedin": "https://www.linkedin.com/in/msebastiyan/",
-      "text": "Marat is an excellent software engineer. He's very passionate about tech, building great user experiences, and improving the project codebase. He's a very high value add to every team he works on."
+      "name": "Elena Batik",
+      "jobTitle": "Designer and handmade creator",
+      "photo": "elena.jpg",
+      "linkedin": "https://freelance.ru/reviews/domagic/",
+      "text": "Yaroslav did more than originally expected. At the beginning of the collaboration, I had superficial knowledge and vague wishes. Yaroslav helped to group everything, to understand, suggested additional solutions, added a number of interesting ideas. As a result, we got more than we wanted and with a very adequate work process. A pleasant work process for an adequate price tag."
     },
     {
-      "name": "Sergii Kalashnykov",
-      "jobTitle": "Test Engineer",
-      "photo": "sergii.jpg",
+      "name": "Pavel Makeev",
+      "jobTitle": "Designer",
+      "photo": "pavel.jpg",
       "linkedin": "https://www.linkedin.com/in/skalashnikov/",
-      "text": "It was a pleasure working with Marat. He is a very talented passionate JavaScript developer, and a good friend. During that time I was impressed with his skill set and the way he could think through problems and find a solution for them. I would be happy to work with him again in the future."
+      "text": "Working with Yaroslav leaves extremely positive emotions. Timely feedback and a responsible approach"
     }
   ],
   "footer": "cv-domagic.netlify.app © 2020"
