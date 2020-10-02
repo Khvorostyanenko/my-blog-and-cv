@@ -4,9 +4,9 @@ module.exports = {
   title: 'Blog by Yaroslav Khvorostyanenko',
   keywords:
     'react, web, web developer, frontend, javascript, Yaroslav Khvorostyanenko, site, blog, info',
-  subtitle: 'Developer. Optimizer. Learner.',
-  copyright: '© 2020 | Kyiv, Ukraine',
-  disqusShortname: 'dospolov',
+  subtitle: 'Developer. Creator. Visualizer.',
+  copyright: '© 2020 | Cherkassy, Ukraine',
+  disqusShortname: 'khvorostyanenko',
   postsPerPage: 20,
   googleAnalyticsId: 'UA-6589522-7',
   menu: [
@@ -20,20 +20,20 @@ module.exports = {
     }
   ],
   author: {
-    name: 'Marat Dospolov',
+    name: 'Yaroslav Khvorostyanenko',
     photo: '/photo.jpg',
-    bio: 'Developer. Optimizer. Learner.',
+    bio: 'Developer. Creator. Visualizer.',
     contacts: {
       // don't remove fields, just make them empty string ''
       // https://github.com/gatsbyjs/gatsby/issues/2392
-      github: 'dospolov',
-      twitter: 'marat_dospolov',
-      linkedin: 'dospolov',
-      telegram: 'dospolov',
-      instagram: 'dospolov',
-      facebook: 'dospolov',
+      github: 'khvorostyanenko',
+      twitter: '',
+      linkedin: '',
+      telegram: 'yarik_travelchem',
+      instagram: '_yar1k_',
+      facebook: 'Khvorostyanenko',
       email: '',
-      rss: '/rss.xml'
+      rss: ''
     }
   }
 }
