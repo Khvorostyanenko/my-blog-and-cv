@@ -1,6 +1,6 @@
 ---
 template: post
-title: "Portfolio site for photographer with modern page "
+title: Portfolio site for photographer with modern page listning and masonry grid
 slug: /posts/portfolio-site-for-photographer-with-modern-page-listning-and-masonry-grid
 draft: false
 priority: 1
