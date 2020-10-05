@@ -8,9 +8,8 @@ date: 2019-03-27T00:46:37.121Z
 description: >-
   You know, I hate routine.
 
-  But one of the greatest things about being a programmer is that you can
-  automate your routine.
-category: productivity
+  But one of the greatest things about being a programmer is that you can automate your routine.
+category: landing page
 tags:
   - trello
   - gtd
