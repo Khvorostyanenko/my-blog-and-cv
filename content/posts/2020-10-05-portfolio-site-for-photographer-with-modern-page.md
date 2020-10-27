@@ -14,4 +14,6 @@ tags:
   - grid
   - photograph
 ---
+
 hello
+![Some text](/media/masonry/02.jpg 'Masonry example')
