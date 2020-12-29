@@ -5,7 +5,8 @@ slug: /posts/batik-scarfs-shop
 draft: false
 priority: 1
 date: 2020-12-29T10:33:29.981Z
-description: Creation of a one-page online store (showroom) of handmade scarves using the Batik technique.
+description: Creation of a one-page online store (showroom) of handmade scarves
+  using the Batik technique.
 category: e-commerce
 tags:
   - e-commerce
@@ -17,7 +18,6 @@ tags:
   - website
   - site
 ---
-
 ## Task
 
 The client is a master and artist who creates handicrafts from silk using the batik technique. Each product is individual, in a single copy. Therefore, the client asked not to create a standard online store for hundreds of positions. I decided to focus on the uniqueness and individuality of the small cozy shop of the master, so I decided to leave the standard commercial online store in the direction of the showroom.
@@ -28,8 +28,7 @@ The target audience usually orders one piece of the product and discusses the de
 
 ## Design development
 
-The promo section (hero section), from the first seconds of being on the site, shows what the master is doing. The accent of the background is made using one of the works with scarves using the batik technique.\
-\
+The promo section (hero section), from the first seconds of being on the site, shows what the master is doing. The accent of the background is made using one of the works with scarves using the batik technique.
 
 `video: title: "The accent of the background is made using one of the works with scarves using the batik technique": /media/batik-scarf/desktop_moc.mp4`
 
@@ -63,10 +62,10 @@ Forms are protected from spam through Netlify support from Google Recaptcha2.
 
 I used a modular (component) approach to layout. The project is built using Webpack with configured basic code optimization (code minification, image optimization). The project uses:
 
-- SCSS
-- JS with Babel
-- Stylelint, Eslint
-- Prettier - for auto-formatting
+* SCSS
+* JS with Babel
+* Stylelint, Eslint
+* Prettier - for auto-formatting
 
 It is a known fact that Google swears at its own map. Therefore, I made lazy loading Google Maps (using JS, the HTML block responsible for the map is loaded as you scroll to a specific area of the screen).\
 \
