@@ -1,12 +1,7 @@
 ---
 template: post
-<<<<<<< HEAD
-title: E-commerce for handmade Batik Scarfs using Webpack + GitHub + Netlify
-slug: /posts/batik-scarf
-=======
 title: E-commerce for handmade Batik Scarves using Webpack + GitHub + Netlify
 slug: /posts/batik-scarfs-shop
->>>>>>> 5e4139cd019ddec5794eaa8635c8f53ebeb15e20
 draft: false
 priority: 1
 date: 2020-12-29T10:33:29.981Z
