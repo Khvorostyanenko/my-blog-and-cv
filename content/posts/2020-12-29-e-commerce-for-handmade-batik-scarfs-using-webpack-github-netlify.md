@@ -1,9 +1,9 @@
 ---
 template: post
 title: E-commerce for handmade Batik Scarfs using Webpack + GitHub + Netlify
-slug: batik-scarfs-shop
+slug: /posts/batik-scarfs-shop
 draft: false
-priority: -1
+priority: 1
 date: 2020-12-29T10:33:29.981Z
 description: Creation of a one-page online store (showroom) of handmade scarves
   using the Batik technique
