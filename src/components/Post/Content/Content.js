@@ -4,7 +4,7 @@ import { SelectOutlined } from '@ant-design/icons'
 // import readingTime from 'reading-time'
 
 const Content = ({ body, title, date, externalLink }) => (
-  <div className="">
+  <div className="max-w-6xl mx-auto">
     {externalLink ? (
       <h1 className="text-5xl mt-3 mb-0">
         <a
@@ -26,7 +26,7 @@ const Content = ({ body, title, date, externalLink }) => (
           </time>{' '}
           {/* | {readingTime(body).text} */}
         </p>
-        <div className="content-center" dangerouslySetInnerHTML={{ __html: body }} />
+        <div className="" dangerouslySetInnerHTML={{ __html: body }} />
       </>
     )}
   </div>
