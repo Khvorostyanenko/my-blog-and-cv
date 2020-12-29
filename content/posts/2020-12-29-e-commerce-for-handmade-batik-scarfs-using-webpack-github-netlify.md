@@ -30,6 +30,8 @@ The target audience usually orders one piece of the product and discusses the de
 
 The promo section (hero section), from the first seconds of being on the site, shows what the master is doing. The accent of the background is made using one of the works with scarves using the batik technique.\
 \
+`video: title: "The accent of the background is made using one of the works with scarves using the batik technique": /media/batik-scarf/desktop_moc.webm`
+
 The creative theme deserves more than widespread Roboto font. I selected the fonts that maximally reflect the contours and lines made while working with scarves by the master himself. As a result, the fonts complement the image of the product and together with the background reveal the main message of the promo section.
 
 Photos of the processes of creating a scarf by the hands of a master emphasizes the uniqueness of each product and handicraft.
