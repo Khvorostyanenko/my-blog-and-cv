@@ -39,6 +39,8 @@ Photos of the processes of creating a scarf by the hands of a master emphasizes 
 
 ## Adaptive
 
+`video: title: "the site has an adaptive layout": /media/batik-scarf/adaptive-cards.mp4`
+
 The site has an adaptive layout, which allows it to display correctly on all types of devices that exist today (tablets, mobile phones, personal computers). Product cards for mobile devices are different from the desktop version and are simplified to optimize download speed and interaction.
 
 ## Correct SEO site layout
