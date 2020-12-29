@@ -18,10 +18,11 @@ tags:
   - website
   - site
 ---
-
 ## Task
 
 The client is a master and artist who creates handicrafts from silk using the batik technique. Each product is individual, in a single copy. Therefore, the client asked not to create a standard online store for hundreds of positions. I decided to focus on the uniqueness and individuality of the small cozy shop of the master, so I decided to leave the standard commercial online store in the direction of the showroom.
+
+![focus on the uniqueness and individuality of the small cozy shop](/media/screenshot_1.jpg "focus on the uniqueness and individuality of the small cozy shop")
 
 The client also asked not to use heavy management systems (cms) and refuse templating on Wordpress and Open Cart. Taking into account the wishes, it was decided to make a one-page static showroom based on clean code, with a minimal admin panel for editing the text of the existing content.
 
@@ -65,10 +66,10 @@ Forms are protected from spam through Netlify support from Google Recaptcha2.
 
 I used a modular (component) approach to layout. The project is built using Webpack with configured basic code optimization (code minification, image optimization). The project uses:
 
-- SCSS
-- JS with Babel
-- Stylelint, Eslint
-- Prettier - for auto-formatting
+* SCSS
+* JS with Babel
+* Stylelint, Eslint
+* Prettier - for auto-formatting
 
 It is a known fact that Google swears at its own map. Therefore, I made lazy loading Google Maps (using JS, the HTML block responsible for the map is loaded as you scroll to a specific area of the screen).\
 \
