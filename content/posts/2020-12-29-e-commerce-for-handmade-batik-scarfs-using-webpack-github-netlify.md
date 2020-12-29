@@ -1,6 +1,6 @@
 ---
 template: post
-title: E-commerce for handmade Batik Scarfs using Webpack + GitHub + Netlify
+title: E-commerce for handmade Batik Scarves using Webpack + GitHub + Netlify
 slug: /posts/batik-scarfs-shop
 draft: false
 priority: 1
@@ -46,7 +46,11 @@ The site has an adaptive layout, which allows it to display correctly on all typ
 
 ## Correct SEO site layout
 
-From the first lines of code, the project is internally optimized, which is an integral part of SEO. The showroom structure consists entirely of semantic markup tags according to HTML5 standards. Header tags are used in the correct hierarchy and do not appear in unexpected blocks.\
+From the first lines of code, the project is internally optimized, which is an integral part of SEO. The showroom structure consists entirely of semantic markup tags according to HTML5 standards. Header tags are used in the correct hierarchy and do not appear in unexpected blocks.
+
+![Sitemap xml is generated with each build of the project and sends requests to Google ](/media/sitemap.jpg "Sitemap xml is generated with each build of the project and sends requests to Google ")
+
+\
 \
 Sitemap.xml is generated with each build of the project and sends requests to Google, Yandex, Bing automatically, on the Netlify side.
 
@@ -56,7 +60,11 @@ There are two types of contact forms on the site. One is responsible for sending
 \
 The main question is: "How to show the manager which particular product card came from the purchase request?" Since the project is self-written and does not have a CMS under the hood, it was decided to "hang anchors" on each product card. Thus, when an order arrives by mail, the manager sees the full information of the form and from which particular card the order came.\
 \
-Sorting orders and convenient content management of forms is implemented through the connection of Netlify forms, and notifications about the order are sent to the manager not only in the admin panel, but also by mail and messenger (out of the box - Slack)\
+Sorting orders and convenient content management of forms is implemented through the connection of Netlify forms, and notifications about the order are sent to the manager not only in the admin panel, but also by mail and messenger (out of the box - Slack)
+
+![Sorting orders and convenient content management of forms](/media/forms.jpg "Sorting orders and convenient content management of forms")
+
+\
 \
 Also, through Netlify, these forms can be generated into CSV tables and downloaded.
 
