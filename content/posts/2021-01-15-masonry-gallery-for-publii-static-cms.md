@@ -6,14 +6,9 @@ draft: false
 priority: 1
 date: 2021-01-15T16:43:37.164Z
 description: Publii gallery has standart grid gallery, so we will modify it into masonry
-category: code
+category: edit
 tags:
-  - code
-  - masonry
-  - css
-  - publii
-  - cms
-  - static
+  - edit
 ---
 # Introduction
 
