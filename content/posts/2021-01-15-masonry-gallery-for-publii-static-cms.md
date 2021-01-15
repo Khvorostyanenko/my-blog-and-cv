@@ -1,7 +1,7 @@
 ---
 template: post
 title: "Masonry gallery for Publii static CMS "
-slug: masonry-gallery-for-publii
+slug: /posts/masonry-gallery-for-publii
 draft: false
 priority: 1
 date: 2021-01-15T16:43:37.164Z
