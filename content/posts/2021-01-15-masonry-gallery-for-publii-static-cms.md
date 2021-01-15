@@ -134,6 +134,6 @@ The generated HTML markup:
 
 ### status
 
-it looks good now. Will test this way and browser support is not enough, will try js libs way.
+it looks good now. Will test this way and if browser support is not enough, will try js libs way.
 
 ![masonry photoswipe](/media/masonry-photoswipe.jpg "masonry photoswipe")
