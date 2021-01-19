@@ -1,7 +1,7 @@
 ---
 template: post
 title: English language Certificate
-slug: posts/english-certificate
+slug: /posts/english-certificate
 draft: false
 priority: 0
 date: 2021-01-19T13:00:55.748Z
