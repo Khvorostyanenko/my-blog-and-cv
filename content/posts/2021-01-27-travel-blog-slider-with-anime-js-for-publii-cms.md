@@ -103,7 +103,7 @@ I did two types of content management in slider for better control of showing co
 
 \- Other slides are adding posts which are marked as featured \
 \
-The order of featured slides is the same as common option for featured posts (in my case I am contoling them on date of creation number.
+The order of featured slides is the same as common option for featured posts (in my case I am controling them on date of creation number.
 
 **\#getPostsByTags in first slide  -** will show controled post from special tag
 
@@ -520,6 +520,6 @@ In **config.json** file in  **customConfig:**
 },
 ```
 
-This will add such a contol option in admin panel in theme options:\
+This will add such a control option in admin panel in theme options:\
 \
 `video: title: "travel blog slider with anime js for Publii CMS": /media/travel-slider/slider-panel.mp4`
