@@ -502,6 +502,8 @@ Js code we can take [here](https://animejs.com/)
 }
 ```
 
+![travel slider with anime js for Publii](/media/travel-slider.jpg "travel slider with anime js for Publii")
+
 ## Custom control in admin panel
 
 In **config.json** file in  **customConfig:** 
