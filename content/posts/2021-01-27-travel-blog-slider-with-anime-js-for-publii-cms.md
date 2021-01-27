@@ -2,8 +2,8 @@
 template: post
 title: Travel blog slider with anime.js for Publii CMS
 slug: /posts/travel-slider-for-publii
-draft: true
-priority: 0
+draft: false
+priority: 1
 date: 2021-01-27T15:28:51.809Z
 description: The idea is to animate an SVG frame while we transition from one
   slide to another
