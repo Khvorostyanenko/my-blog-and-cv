@@ -7,11 +7,11 @@ priority: 1
 date: 2020-12-29T10:33:29.981Z
 description: Creation of a one-page online store (showroom) of handmade scarves
   using the Batik technique.
-category: e-commerce
+category: "e-commerce, case "
 tags:
   - e-commerce
   - shop
-  - keys
+  - case
   - netlify
   - webpack
   - github
